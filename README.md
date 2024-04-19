@@ -1,1 +1,1 @@
-개발자 목록의 제목을 삭제함
+# git-playground
